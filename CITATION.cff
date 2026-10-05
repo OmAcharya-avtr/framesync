@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "FrameSync"
+abstract: "CCSDS frame-level link performance harness over existing codecs — attached sync marker correlation, acquisition/flywheel/loss state machine, slip and false-sync statistics, frame-error rate versus Eb/N0 for uncoded, RS(255,223) and convolutionally coded links. Not a codec and not a packet parser."
+type: software
+authors:
+  - family-names: "Acharya"
+    given-names: "Om"
+    alias: "OmAcharya-avtr"
+repository-code: "https://github.com/OmAcharya-avtr/framesync"
+license: "MIT"
+version: "0.1.0"
+date-released: "2026-08-30"
+keywords:
+  - aerospace
+  - satellite-communications
